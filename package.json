@@ -1,0 +1,24 @@
+{
+  "name": "nconf-yaml2",
+  "version": "1.0.0",
+  "description": "YAML format plugin for nconf, with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nconf",
+    "yaml",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dillonliang224/nconf-yaml2.git"
+  },
+  "author": "Dillon Liang <dillonliang@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.12.0"
+  },
+  "types": "index.d.ts"
+}
